@@ -1,0 +1,16 @@
+PODS:
+  - MyCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - MyCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  MyCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyCategoryKit: c60c3428bd31532cc81da9303e4d0412a950adc6
+
+PODFILE CHECKSUM: 09040d554e5644b470699b23b178306db116e0ea
+
+COCOAPODS: 1.11.2

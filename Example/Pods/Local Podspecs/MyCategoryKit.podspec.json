@@ -1,0 +1,22 @@
+{
+  "name": "MyCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of MyCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wintersweet/MyCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wintersweet": "hudongdong@fuse.co.id"
+  },
+  "source": {
+    "git": "https://github.com/wintersweet/MyCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyCategoryKit/Classes/**/*"
+}
