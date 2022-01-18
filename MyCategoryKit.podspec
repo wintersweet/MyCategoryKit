@@ -29,9 +29,9 @@ MyCategoryKit 框架
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
-  s.source_files = 'MyCategoryKit/Classes/**/*'
+  s.source_files = 'MyCategoryKit/Classes/*.{h,m}'
   # s.subspec 'Classes' do |cc|
-  #    cc.source_files = 'MyCategoryKit/Classes/**/*'
+  #    cc.source_files = 'MyCategoryKit/Classes/*'
   #  end
   
   # s.resource_bundles = {
