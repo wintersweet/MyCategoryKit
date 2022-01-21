@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyCategoryKit'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'MyCategoryKit的组件'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ MyCategoryKit 框架
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
-  s.source_files = 'MyCategoryKit/Classes/*.{h,m}'
+  s.source_files = 'MyCategoryKit/Classes/**/*'
   # s.subspec 'Classes' do |cc|
   #    cc.source_files = 'MyCategoryKit/Classes/*'
   #  end
