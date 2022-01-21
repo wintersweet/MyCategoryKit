@@ -10,9 +10,11 @@
 #endif
 #endif
 
-#import "NSArray+Wgarray.h"
-#import "NSString+HUString.h"
-#import "UIAlertController+HuAlert.h"
+#import "NSArray+NullSafe.h"
+#import "NSMutableArray+NullSafe.h"
+#import "NSMutableDictionary+NullSafe.h"
+#import "NSNull+NullSafe.h"
+#import "NSObject+NullSafe.h"
 
 FOUNDATION_EXPORT double MyCategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char MyCategoryKitVersionString[];

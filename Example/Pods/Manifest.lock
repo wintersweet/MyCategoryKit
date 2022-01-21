@@ -1,5 +1,5 @@
 PODS:
-  - MyCategoryKit (0.1.0)
+  - MyCategoryKit (1.0.1)
 
 DEPENDENCIES:
   - MyCategoryKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyCategoryKit: c60c3428bd31532cc81da9303e4d0412a950adc6
+  MyCategoryKit: b5d1bae36f64aabc445a386ac1a5e469f8026e17
 
 PODFILE CHECKSUM: 09040d554e5644b470699b23b178306db116e0ea
 
